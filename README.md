@@ -57,10 +57,10 @@ The test automation framework is comprised of following tools and libraries
 
 Test Automation framework support
 ------------------------------------------
-Gaurav Karvir
+Tharun S
 --------------
 Test Automation Architect  
-genroks@gmail.com  
+tharuns1312@gmail.com  
 
 
 
